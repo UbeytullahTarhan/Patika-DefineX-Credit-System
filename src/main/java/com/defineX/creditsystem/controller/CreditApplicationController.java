@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 
+@Slf4j
 @CrossOrigin
 @RestController
 @RequiredArgsConstructor
